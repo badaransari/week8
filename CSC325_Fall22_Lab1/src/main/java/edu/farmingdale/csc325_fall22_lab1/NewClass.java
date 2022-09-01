@@ -10,8 +10,11 @@ package edu.farmingdale.csc325_fall22_lab1;
  * @author soblab
  */
 public class NewClass {
-    
+    private static void sayHello(String str){
+        System.out.println(str);
+    }
     public static void main (String[] args){
+        sayHello("hello world");
         
     }
     
