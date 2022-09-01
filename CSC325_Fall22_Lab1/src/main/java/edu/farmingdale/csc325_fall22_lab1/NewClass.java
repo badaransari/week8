@@ -20,3 +20,25 @@ public class NewClass {
     
     
 }
+class NewClass2{
+    
+    public NewClass2(){ //constructor
+        
+           
+        
+    }
+    public NewClass2(int a ){ //overloaded constructor 
+        
+    }
+    
+    public NewClass2(double a ){ //overloaded constructor 
+        
+    }
+    
+     public NewClass2(double a, int b ){ //overloaded constructor 
+        //constructor should have same name as a class 
+    }
+    
+    
+    
+}
